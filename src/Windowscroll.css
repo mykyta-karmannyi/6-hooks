@@ -1,0 +1,10 @@
+.content{
+  position: relative;
+  top: 0;
+}
+
+header{
+  position: sticky;
+  top: 20px;
+  width: 100%;
+}
