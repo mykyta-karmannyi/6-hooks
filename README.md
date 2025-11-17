@@ -10,7 +10,8 @@
 - etc.
 
 ## 📸 Скриншоты
-(вставь изображения UI)<img width="2550" height="1240" alt="image" src="https://github.com/user-attachments/assets/98022616-c698-403c-bcdb-e474ae5e1033" />
+<img width="2550" height="1240" alt="image" src="https://github.com/user-attachments/assets/98022616-c698-403c-bcdb-e474ae5e1033" />
+<img width="2546" height="1237" alt="image" src="https://github.com/user-attachments/assets/489a36c9-3b75-4849-b4e4-e0276af005e6" />
 
 
 ## ⚙️ Установка и запуск
